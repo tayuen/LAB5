@@ -1,8 +1,7 @@
 body {
-  background-imgs: url(imgs/background.JPEG);
-  background-position: center;
+ 
 	width: 80%;
-  background-repeat: no-repeat;
+  
   background-color: #AFEEEE;
 }
 
@@ -15,7 +14,7 @@ h1 pictures profile of planet {
 }
 
 #earthimgs {
-  display: inlinetable;
+  display: inline;
   padding: 20px 0 0 350px;
   position: static;
   float: none;
@@ -25,7 +24,7 @@ h1 pictures profile of planet {
 }
 
 #marsimgs {
-  display: inlinetable;
+  display: inline;
   padding: 20px 0 0 80px;
   position: static;
   float: none;
@@ -34,7 +33,7 @@ h1 pictures profile of planet {
 }
 
 #saturnimgs {
-  display: inlinetable;
+  display: inline;
   padding: 20px 0 0 80px;
   position: static;
   float: none;
@@ -43,7 +42,7 @@ h1 pictures profile of planet {
   }
 
 #uranusimgs {
-  display: inlinetable;
+  display: inline;
   padding: 20px 0 0 80px;
   position: static;
   float: none;
